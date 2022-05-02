@@ -9,6 +9,8 @@
 * pip install websocket-client
 
 
+leverage  :kaldıraç
+
 
 https://binance-docs.github.io/apidocs
 
